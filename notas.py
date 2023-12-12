@@ -10,3 +10,10 @@
 
 # python streamlit_app.py
 
+
+"""
+git status
+git add .
+git commit -m "changed requierements or deployment"
+git push
+"""
