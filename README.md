@@ -29,8 +29,6 @@ streamlit run app.py
 🔗 Important Links
 GitHub: https://github.com/limbpuma
 LinkedIn: https://www.linkedin.com/in/limber-martinez-developer/
-💖 Acknowledgements
-This project was made possible thanks to the Streamlit community and OpenAI. Special thanks to everyone contributing to these projects.
 
 📝 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
