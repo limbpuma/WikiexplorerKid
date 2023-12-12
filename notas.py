@@ -14,6 +14,6 @@
 """
 git status
 git add .
-git commit -m "changed requierements or deployment"
+git commit -m "changed requierements or deployment2"
 git push
 """
