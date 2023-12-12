@@ -1,0 +1,7 @@
+.env
+lim001/
+lim002/
+.agents.py
+.notas.py
+cache/
+__pycache__/
