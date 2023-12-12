@@ -33,4 +33,4 @@ LinkedIn: https://www.linkedin.com/in/limber-martinez-developer/
 This project was made possible thanks to the Streamlit community and OpenAI. Special thanks to everyone contributing to these projects.
 
 📝 License
-This project is licensed under the XYZ License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
